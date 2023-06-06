@@ -1,0 +1,9 @@
+﻿Python Assignment 5
+1. An empty dictionary’s code looks like {}
+2. {‘foo’ : 42}
+3. Lists are ordered collections of elements and can be accessed using indexes, whereas dictionary is an unordered collection of key-value pairs. Each key in the dictionary is unique and associated with a value. 
+4. We would be getting a key error because the key value ‘foo’ does not exist.
+5. There is no difference between ‘cat’ in spam and ‘cat’ in spam.keys() because both check if ‘cat’ is present in dictionary keys. 
+6. ‘cat’ in  spam checks if ‘cat’ is present in any of the dictionary keys whereas ‘cat’ in spam.values() checks if ‘cat’ is present in values of a dictionary. 
+7. spam.setdefault(‘color’,’black’)
+8. The module is pprint(). The functions are pprint.pprint() and pprint.pformat()
